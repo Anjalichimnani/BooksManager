@@ -14,6 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+<<<<<<< HEAD
 
 Route::get('/debug', function() {
 
@@ -49,3 +50,5 @@ Route::get('/debug', function() {
     echo '</pre>';
 
 });
+=======
+>>>>>>> d41cee8023a599d2f91965b53fb83fdc075c829b
