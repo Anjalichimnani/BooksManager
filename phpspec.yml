@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BooksManage
+        psr4_prefix: BooksManage
+        src_path: app
